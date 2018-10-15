@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mThunderConsole", "mThunderConsole\mThunderConsole.csproj", "{753B9FAE-9A20-4F9B-8B54-F53C71A7F6FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{753B9FAE-9A20-4F9B-8B54-F53C71A7F6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753B9FAE-9A20-4F9B-8B54-F53C71A7F6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753B9FAE-9A20-4F9B-8B54-F53C71A7F6FD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{753B9FAE-9A20-4F9B-8B54-F53C71A7F6FD}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F92BD7A-E576-40AE-BB9E-2BF6BB06199E}
+	EndGlobalSection
+EndGlobal
